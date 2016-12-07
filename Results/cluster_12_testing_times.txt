@@ -1,0 +1,30 @@
+--------------
+Time taken ( 8 exs) : 328245
+Time taken ( 8 exs) : 326560
+Time taken ( 8 exs) : 332022
+Time taken ( 8 exs) : 334891
+Time taken ( 8 exs) : 332117
+--------------
+Time taken ( 22 exs) : 281306
+Time taken ( 22 exs) : 283555
+Time taken ( 22 exs) : 287659
+Time taken ( 22 exs) : 287854
+Time taken ( 22 exs) : 290040
+--------------
+Time taken ( 45 exs) : 332724
+Time taken ( 46 exs) : 342100
+Time taken ( 46 exs) : 337897
+Time taken ( 46 exs) : 354046
+Time taken ( 46 exs) : 341057
+--------------
+Time taken ( 46 exs) : 293965
+Time taken ( 45 exs) : 280175
+Time taken ( 46 exs) : 291096
+Time taken ( 45 exs) : 292207
+Time taken ( 46 exs) : 281795
+--------------
+Time taken ( 70 exs) : 407835
+Time taken ( 70 exs) : 407908
+Time taken ( 70 exs) : 417898
+Time taken ( 70 exs) : 430233
+Time taken ( 70 exs) : 410923
